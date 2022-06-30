@@ -1,0 +1,2 @@
+Covid.info()
+Covid['age_group'].value_counts()
