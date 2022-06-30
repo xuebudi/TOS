@@ -1,0 +1,2 @@
+Covid = pd.read_csv('../input/covid19-case-surveillance-public-use-dataset/COVID-19_Case_Surveillance_Public_Use_Data.csv')
+Covid.head()
